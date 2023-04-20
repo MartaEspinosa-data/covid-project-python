@@ -11,6 +11,6 @@ Before analyzing the data, it was cleaned and prepared by removing any missing o
 The analysis was conducted by creating visualizations and tables to explore the trends and patterns in the data. The project includes various charts, such as bar charts, line charts, and scatter plots, to visualize the evolution of the number of vaccinations and deaths in different countries over time.
 
 ## Results and Findings
-The project revealed that some countries were able to vaccinate a larger percentage of their population, while others lagged behind. The number of deaths due to COVID-19 also varied greatly among different countries.
+The project revealed that some countries were able to vaccinate a larger percentage of their population, while others lagged behind. The number of deaths due to COVID-19 also varied greatly among different countries around the world.
 
 .
